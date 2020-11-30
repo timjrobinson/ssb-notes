@@ -14,9 +14,5 @@ Description:: An overview of the different stream/log names in SSB.
 ## Viewing live log of incoming messages
 
 ```
-ssb-server log --reverse --live --gt $(date +%s%N | cut -b1-13)
+ssb-server log --no-old
 ```
-
-Without the `--gt` it prints the entire stream first then listens for more.
-
-
