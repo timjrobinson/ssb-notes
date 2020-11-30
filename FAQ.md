@@ -67,10 +67,8 @@ sbot publish --type post --text "Hey world!"
 This does a `tail` of all incoming SSB messages:
 
 ```
-ssb-server log --reverse --live --gt $(date +%s%N | cut -b1-13)
+ssb-server log --no-old
 ```
-
-The `date` command is getting the current timestamp in milliseconds. 
 
 
 ### Is there an easy plugin for following all new people? 
