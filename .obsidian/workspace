@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FAQ.md",
+            "file": "Log Streams.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FAQ.md",
+                "file": "Log Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "FAQ.md",
     "Log Streams.md",
-    "Minimal Server Manifest.md",
-    "Protocol Guide Notes.md",
     "SSB Server.md",
-    "RPC Requests.md",
+    "Useful Links.md",
+    "Minimal Server Manifest.md",
     "README.md",
-    "Questions and Answers.md",
-    "Untitled.md"
+    "Invite Codes.md",
+    "Pubs.md",
+    "RPC Requests.md",
+    "Oasis.md",
+    "Patchwork.md"
   ]
 }

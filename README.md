@@ -13,6 +13,11 @@ I created these to be a reference for anyone who'd like to get into SSB developm
 
 These notes are best viewed using [Obsidian](https://obsidian.md) as then you'll be able to explore the links between notes with ease.
 
+
+## Sections
+
+[[Useful Links]]
+
 ## Future Ideas
 
 - Find/Create a script that can transform this notebook into a static website, then host with Github Pages. Perhaps something that can reformat it as Hugo notes. 

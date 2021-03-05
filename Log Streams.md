@@ -13,6 +13,8 @@ Description:: An overview of the different stream/log names in SSB.
 
 ## Viewing live log of incoming messages
 
+Super useful if you want to learn the structure of SSB messages. Also fun to have a realtime stream of the network :D
+
 ```
 ssb-server log --reverse --live --gt $(date +%s%N | cut -b1-13)
 ```
